@@ -60,7 +60,7 @@ copy .env.example .env
 2. Open `.env` and replace the placeholder:
 
 ```
-DEEPSEEK_API_KEY=your_actual_api_key_here
+OPENROUTER_API_KEY=your_actual_api_key_here
 ```
 
 ---
