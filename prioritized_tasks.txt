@@ -1,0 +1,22 @@
+Here’s the prioritized list of your tasks categorized based on urgency and importance:
+
+**Urgent and Important:**  
+    - study statistics (exam in three days)  
+    - check my sisters studies for the upcomming Twjihi exams  
+    - teach math to my brother  
+
+**Urgent Not Important:**  
+    - organize my linkedin profile (if time-sensitive, e.g., internship applications)  
+    - look for internships (if deadlines are close)  
+
+**Not Urgent But Important:**  
+    - read linear algebra book  
+    - continue Data Science IBM course  
+    - talk to a school for teaching permission  
+    - look for masters scholarships and their requirements  
+
+**Not Urgent Nor Important:**  
+    - watch anime  
+    - train for like 20m (unless health is a priority, then it could shift to "Important")  
+
+Let me know if you'd like adjustments based on specific deadlines or priorities!
