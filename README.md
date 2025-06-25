@@ -13,6 +13,7 @@ your-project-folder/
 ├── prioritized_tasks.txt   # Output file with prioritized tasks
 ├── .env.example            # Example environment file with API key placeholder
 ├── .gitignore              # Git ignore rules
+├── requirements.txt        # Required Libs
 ```
 
 ---
@@ -47,7 +48,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-> If `requirements.txt` is missing, install required libraries manually (e.g., `requests`, `dotenv`, etc.).
+> If `requirements.txt` is missing, install required libraries manually (e.g., `python-dotenv`, `openai`, etc.).
 
 ### 4. Set up your API key
 
